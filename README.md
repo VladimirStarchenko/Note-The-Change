@@ -1,5 +1,7 @@
 # Note The Change
 
+## A LITTLE ABOUT THE APP...
+
 In this assignment the main objective was to create a notetaker app that can succesfully push a note title and note text into an array of objects.
 Succesfully this was made possible using express.js. 
 Below is the entry page the user will first see. The Get Started button uses event handlers connected with express 'CRUD' methods to GET the notes.html page 
@@ -12,3 +14,11 @@ The note below is given a title of the date at the time of entry along with an e
 So here we are our new note! Now we see one additional icon next to our saved not. The trash bin. If need be you can delete the note by clicking the trash icon and clean
 up your workspace. 
 ![notetaker-demo](https://user-images.githubusercontent.com/91164950/148704456-5c9bea23-e6db-4e22-acbf-dcb4859b95b3.PNG)
+
+## HOW TO USE THE APP...
+
+In order to use this app succesfully clone this file to your computer. 
+
+Next open up git bash and cd into the root of your folder and enter ``` npm start ```
+
+This will get the server running. From here you only need to input into your search bar [localhost:3001](https://localhost:3001)
