@@ -21,4 +21,4 @@ In order to use this app succesfully clone this file to your computer.
 
 Next open up git bash and cd into the root of your folder and enter ``` npm start ```
 
-This will get the server running. From here you only need to input into your search bar [localhost:3001](https://localhost:3001)
+This will get the server running. From here you only need to input into your search bar localhost:3001
